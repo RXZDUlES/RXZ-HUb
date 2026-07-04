@@ -1,0 +1,32 @@
+{
+  "music": {
+    "intro": {
+      "id": 5956044709,
+      "volume": 0.65,
+      "name": "Hype Electronic Beats"
+    },
+    "impact": {
+      "id": 5635391911,
+      "volume": 0.85,
+      "name": "Bass Drop Impact"
+    },
+    "hub": {
+      "id": 6066173355,
+      "volume": 0.5,
+      "name": "Ambient Hub Theme",
+      "looped": true
+    }
+  },
+  "colors": {
+    "background": [5, 5, 8],
+    "background2": [12, 10, 18],
+    "stroke": [70, 55, 95],
+    "white": [255, 255, 255],
+    "dimText": [160, 150, 175]
+  },
+  "settings": {
+    "introEnabled": true,
+    "introLength": 4,
+    "hudDelay": 0.5
+  }
+}
